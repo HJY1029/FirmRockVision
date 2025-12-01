@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn>=0.13.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+flask>=2.3.0
+chardet>=5.0.0
+gunicorn>=21.2.0
+
